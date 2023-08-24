@@ -9,3 +9,7 @@ p {
 #imagem {
     text-align: center;
 }
+
+caption {
+    text-transform: capitalize;
+}
