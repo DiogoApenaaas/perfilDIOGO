@@ -11,5 +11,7 @@ p {
 }
 
 caption {
-    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    color: #c26861;
 }
