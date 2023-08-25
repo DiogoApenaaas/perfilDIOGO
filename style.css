@@ -1,9 +1,5 @@
 html{
     background-color:rgb(239, 240, 227)   
-    caption {
-        font-size: 20;
-        color: black;
-     }
 }
 
 p {
@@ -19,7 +15,7 @@ caption {
    color: black;
 }
 
-#algo {
+caption {
     text-align: center;
     font-weight: bold;
     color: #c26861;
