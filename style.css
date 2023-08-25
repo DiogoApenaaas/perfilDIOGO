@@ -4,13 +4,13 @@ html{
 
 table, th, td {
     border:1px solid black;
-    }
+}
 
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+#imagem{
     text-align: center;
 }
 
