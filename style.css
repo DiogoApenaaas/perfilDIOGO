@@ -1,3 +1,9 @@
+
+caption {
+    font-size: 20px;
+    color: blue;
+ }
+ 
 html{
     background-color:rgb(239, 240, 227)   
 }
@@ -14,10 +20,7 @@ p{
     text-align: center;
 }
 
-caption {
-   font-size: 20px;
-   color: blue;
-}
+
 
 td {
     text-align: center;
