@@ -42,19 +42,18 @@ td {
     font-size: 18;
 }
 
-figure {
-    font-size: 1px;
-    color:  #cccccc solid;
+figure{
+    padding: 4px;
+    border: 1px solid #cccccc ;
     width: 50%;
-    fill: 4px;
-    margin:auto;
+    margin: auto;
 }
 
-figcaption {
+figcaption{
     background-color: black;
     color: white;
     font-style: italic;
-    padding: 2px;
+    margin: auto;
     text-align: center;
 }
 
