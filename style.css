@@ -79,7 +79,9 @@ td, th {
   
   tr{
     background-color: red;
+    color: red
   }
+
   td{
     background-color: #f0f0f0;
     color: black
