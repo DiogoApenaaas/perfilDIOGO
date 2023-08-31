@@ -64,14 +64,13 @@ figure img {
 
 }
 
-
 table{
     width: 100%;
     margin-bottom : .5em;
     table-layout: fixed;
     text-align: center;
   }
-  
+
 td, th {
     padding: .7em;
     margin: 0;
@@ -79,10 +78,10 @@ td, th {
     text-align: center;
   }
   
-  tr{
+#trred{
     background-color: red;
   }
 
-  td{
+td{
     background-color: #f0f0f0;
   }
