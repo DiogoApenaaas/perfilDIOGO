@@ -47,6 +47,14 @@ figure {
     color:  #cccccc solid;
     width: 50%;
     fill: 4px;
-    margin:auto
+    margin:auto;
+}
+
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    fill: 2px;
+    text-align: center;
 
 }
