@@ -101,6 +101,7 @@
     <div>
 
         <p>Um tipo de FORMULÁRIO - <color id="colorA">A</color></p>
+        <color id="colorB">
         <form>
             Nome <br> <input type="text" name="nome" id="txtNone">
             <br>
@@ -115,6 +116,7 @@
 
 
         <input type="submit" value=" Enviar"/>
+        </color>
     </div>
 
     <br>
@@ -125,6 +127,7 @@
 
         <fieldset>
         <legend>Outro tipo de FORMULÁRIO - <color id="colorB">B</color> - ATIVO sendo que dá pra escrever dentro dele:</legend>
+        <color id="colorB">
         <form>
             Nome <input type="text" name="nome" id="txtNone">
             <br> <br>
@@ -143,7 +146,8 @@
         <br>
 
         <input type="submit" value=" Enviar"/>
-    </fieldset>
+        </color>
+        </fieldset>
     </div>
     
     <br>
@@ -154,9 +158,9 @@
 
         <fieldset>
             <legend>Outro tipo de FORMULÁRIO - <color id="colorC">C</color> - INATIVO sendo que não dá pra escrever dentro dele:</legend>
-
+            <color id="colorC">
             <form>
-                <color id="colorC">
+                
                 Nome <input type="text" name="nome" id="txtNone" disabled="">
                 <br> <br>
                 Sobrenome <input type="text" name="sobrenome" id="txtSobrenome" disabled="">
@@ -166,12 +170,13 @@
                 Data de nascimento:
                 <input type="date"          name="nascimento"
                     min ="1950-01-01"    max="2023-12-31"    disabled=""> 
-                </color>
+                
             </form>
 
             <br>
 
             <input type="submit" value=" Enviar"/>
+        </color>
         </fieldset>
     </div>
 
