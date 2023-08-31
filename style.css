@@ -71,7 +71,7 @@ table{
     table-layout: fixed;
     text-align: center;
   }
-  
+
 td, th {
     padding: .7em;
     margin: 0;
@@ -80,7 +80,7 @@ td, th {
   }
   
   tr{
-    background-color red;
+    background-color: red;
   }
 
   td{
