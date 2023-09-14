@@ -95,3 +95,7 @@ td, th {
         border: 5px solid gray;
         margin: auto;
   }
+
+  #alinhamento {
+    text-align: center;
+  }
