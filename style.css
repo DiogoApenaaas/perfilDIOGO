@@ -121,4 +121,12 @@ td, th {
         box-sizing: border-box;
         border-radius: 4px;
     }
+
+    .botão_bonito {
+        background-color: #008cba; color: white;
+        padding: 12px 12px;
+        border: none;
+        border-radius: 4px;
+        text-align: right;
+    }
     
