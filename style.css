@@ -109,7 +109,7 @@ td, th {
     }
 
     .borda_redonda {
-    border: 2px solid red;
+    border: 2px solid grey;
     border-radius: 5px;
     padding: 5px;
     } 
