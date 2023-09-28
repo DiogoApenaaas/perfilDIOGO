@@ -137,5 +137,6 @@ td, th {
         border: 5px solid gray;
         margin-left: 200px;
         margin-top: 10px;
+        margin-bottom: 10px; 
     }
     
