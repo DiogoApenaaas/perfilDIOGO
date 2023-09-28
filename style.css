@@ -135,8 +135,10 @@ td, th {
         width: 320px;
         padding: 10px;
         border: 5px solid gray;
-        margin-left: 200px;
+        margin-left: 10px;
         margin-top: 10px;
         margin-bottom: 10px; 
+        margin-right: 10px;
+        align-self: auto;
     }
     
